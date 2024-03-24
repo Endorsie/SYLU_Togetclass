@@ -11,7 +11,7 @@
 
 (function() {
     'use strict';
-     /*弹窗自动确认*/
+    /*弹窗自动确认*/
     window.confirm = function() { return true; };  
     window.alert   = function() { return true; };   
 
