@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         SYLU_Togetclass
+// @license Mozilla Public License 1.1 (MPL)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Hope we can get the classes we desire all.
